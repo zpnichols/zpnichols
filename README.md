@@ -1,3 +1,6 @@
+> There are no solutions. There are only tradeoffs.
+> _<cite>Thomas Sowell</cite>_
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on: earning my MSCS from Northeastern University (est. graduation: May 2024)
